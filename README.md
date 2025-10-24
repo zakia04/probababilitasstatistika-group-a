@@ -1,4 +1,3 @@
-[histogram_haji.py](https://github.com/user-attachments/files/23121326/histogram_haji.py)
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -39,4 +38,5 @@ plt.xlabel("Kabupaten/Kota")
 plt.ylabel("Jumlah Jemaah Haji")
 plt.xticks(rotation=30, ha="right")
 plt.tight_layout()
+
 plt.show()
